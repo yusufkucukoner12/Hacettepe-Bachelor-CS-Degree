@@ -1,0 +1,200 @@
+SetInitialTime	2023-03-31_14:00:00
+ZReport
+
+Add	SmartPlug	Plug1	asds	sadsa	sadsad
+Add	SmartPlug
+Add	SmartPlug	Plug1
+Add	SmartPlug	Plug1	asdas	asdsad
+Add	SmartPlug	Plug2	asdsa	-31
+Add	SmartPlug	Plug2	On	-31
+Add	SmartPlug	Plug2	Off	asdsa
+Add	SmartPlug	Plug2	Off	12
+Add	SmartPlug	Plug3	Off
+Add	SmartPlug	Plug4	Off
+
+Add	SmartCamera
+Add	SmartCamera	Camera1
+Add	SmartCamera	Camera1	10	On
+Add	SmartCamera	Camera1	ppp	asdas
+Add	SmartCamera	Camera1	-30	asdsad
+Add	SmartCamera	Camera2	-30	asdsad
+Add	SmartCamera	Camera2	10	sadasdsa
+Add	SmartCamera	Camera2	12	On
+Add	SmartCamera	Camera3	12	On
+
+
+Add	SmartLamp
+Add	SmartLamp	Lamp1	asdsa
+Add	SmartLamp	Lamp1	On	4300	90
+Add	SmartLamp	Lamp1	asd	asdas	asdsa
+Add	SmartLamp	Lamp2	asd	asdas	asdsa
+Add	SmartLamp	Lamp2	Off	asdas	asdsa
+Add	SmartLamp	Lamp2	Off	300	asdsa
+Add	SmartLamp	Lamp2	Off	4900	asdsa
+Add	SmartLamp	Lamp2	Off	4900	-5
+Add	SmartLamp	Lamp2	Off	4900	60
+
+
+Add	SmartColorLamp
+Add	SmartColorLamp	CLamp1	asdsa
+Add	SmartColorLamp	CLamp1	On	4300	90
+Add	SmartColorLamp	CLamp1	asd	asdas	asdsa
+Add	SmartColorLamp	CLamp2	asd	asdas	asdsa
+Add	SmartColorLamp	CLamp2	Off	asdas	asdsa
+Add	SmartColorLamp	CLamp2	Off	300	asdsa
+Add	SmartColorLamp	CLamp2	Off	4900	asdsa
+Add	SmartColorLamp	CLamp2	Off	4900	-5
+Add	SmartColorLamp	CLamp2	Off	4900	60
+Add	SmartColorLamp	CLamp3	Off	0xFF	asdsa
+Add	SmartColorLamp	CLamp3	Off	0xFFFFFFF	70
+Add	SmartColorLamp	CLamp3	Off	0xFFFFFF	70
+
+Remove	sdas
+Remove	
+Remove	asd	sadsa
+Remove	CLamp2
+Remove	CLamp2
+
+Switch	Plug22	Off
+Switch	Plug2	asdsa
+Switch	Plug2	Off
+Switch	Plug2	On
+Switch	Plug2	Off
+
+ChangeName	asd
+ChangeName
+ChangeName	Plug1212	Plug1212
+ChangeName	Plug10	Plug15
+ChangeName	Plug2	Plug2
+ChangeName	Plug2	Plug1
+ChangeName	Plug2	Plug20
+
+PlugIn	Plug3	10	10
+PlugIn	Plug3
+PlugIn	Plug10	10
+PlugIn	CLamp1	10
+PlugIn	Plug3	-10
+PlugIn	Plug3	10.2
+PlugIn	Plug3	10.2
+PlugIn	Plug20
+
+PlugOut	Plug20
+PlugOut	Plug20
+PlugOut	Plug123
+PlugOut	Lamp1
+PlugOut
+PlugOut	Lamp1	asdas
+PlugOut	Plug20	wqewqewq	wqewqe
+
+SetKelvin	Plug20	300
+SetKelvin	CLas	sad	qwe
+SetKelvin	Lamp1
+SetKelvin	Lamp10	2900
+SetKelvin	Lamp10	ooooo
+SetKelvin	Lamp1	asd
+SetKelvin	Lamp1	6900
+SetKelvin	Lamp1	6400
+
+SetBrightness	CLamp1	60
+SetBrightness	Plug20	300
+SetBrightness	CLas	sad	qwe
+SetBrightness	Lamp1
+SetBrightness	Lamp10	2900
+SetBrightness	Lamp10	ooooo
+SetBrightness	Lamp1	asd
+SetBrightness	Lamp1	6900
+SetBrightness	Lamp1	40
+
+SetWhite	Lamp1	123213
+SetWhite	Lamp123	213
+SetWhite	Lamp123	123	21321
+SetWhite	Lamp1	10000	10000
+SetWhite	Lamp1	asd	10000
+SetWhite	Lamp1	2300	asd
+SetWhite	Lamp1	2300	90
+SetWhite	Plug1	123213
+SetWhite	Plug1	213
+SetWhite	Plug1	123	21321
+SetWhite	Plug1	10000	10000
+SetWhite	Plug1	asd	10000
+SetWhite	Plug1	2300	asd
+SetWhite	Plug1	2300	90
+
+SetColorCode	CLamp2
+SetColorCode	CLamp2	asd	sad
+SetColorCode	Plug20	0x0FF
+SetColorCode	asdas	0x0FFF
+SetColorCode	Plug20	sadsad
+SetColorCode	CLamp1	12321
+SetColorCode	CLamp1	0xG
+SetColorCode	CLamp1	0xFFFFFFF
+SetColorCode	CLamp1	0xFFFF
+
+SetColor	CLamp2
+SetColor	CLamp2	asd	sad
+SetColor	Plug20	0x0FF	120
+SetColor	asdas	0x0FFF	120
+SetColor	Plug20	sadsad	120
+SetColor	CLamp1	12321	120
+SetColor	CLamp1	0xG	120	
+SetColor	CLamp1	0xFFFFFFFF	120
+SetColor	CLamp1	0xFFFF	-120
+SetColor	CLamp1	0xFFFF	20
+SetColor	Lamp1	0xFFFF	-120
+SetColor	Lamp1	0xFFFF	20
+
+ZReport
+
+PlugIn	Plug1	10
+PlugIn	Plug3	10
+PlugIn	Plug20	10
+PlugIn	Plug4	10
+Switch	Plug20	Off
+
+SetTime
+SetTime	asd	asd
+SetTime	2023-03-31_14:00:00	2023-03-31_14:00:00
+SetTime	2023-03-31-14-00-00
+SetTime	2023-03-32_14:00:00
+SetTime	2023-01-29_14:00:00
+
+SetTime	2023-03-31_14:0:0
+
+ZReport
+
+SetSwitchTime	Plug20	2023-03-31_14:05:00
+
+SkipMinutes
+SkipMinutes	asd
+SkipMinutes	10
+SkipMinutes	-10
+SkipMinutes	0
+SkipMinutes	10	10	10
+SkipMinutes	-1	-1	-1
+Nop
+
+SetSwitchTime	Lamp1	asdas	sadsadsa
+SetSwitchTime	Orospucocugu	2023-04-1_14:15:00
+SetSwitchTime	Lamp1	2023-04-asd_14:15:00
+SetSwitchTime	Lamp1	2023-04-1-14:15:00
+SetSwitchTime	isimhatası	2023-04-1-14:15:00
+SetSwitchTime	Lamp1	2023-03-1_14:15:00
+
+ZReport
+
+SetSwitchTime	Plug1	2023-03-31_14:20:00
+SetSwitchTime	Plug4	2023-03-31_14:20:00
+SetSwitchTime	Plug20	2023-03-31_14:20:00
+SetSwitchTime	Camera1	2023-03-31_14:35:00
+SetSwitchTime	Camera3	2023-03-31_15:05:00
+
+SetKelvin	CLamp3	4700
+SkipMinutes	30	
+ZReport
+Nop
+ZReport
+Nop
+ZReport
+Nop
+
+
