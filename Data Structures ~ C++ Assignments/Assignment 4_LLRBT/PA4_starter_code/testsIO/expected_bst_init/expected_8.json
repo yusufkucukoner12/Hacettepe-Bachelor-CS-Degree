@@ -1,0 +1,141 @@
+{
+    "left": {
+        "left": {
+            "left": {
+                "left": null,
+                "node": {
+                    "distance_from_earth": 149.3519333654573,
+                    "sector_code": "149LDF",
+                    "x": -88,
+                    "y": -69,
+                    "z": 99
+                },
+                "right": {
+                    "left": null,
+                    "node": {
+                        "distance_from_earth": 90.4267659490264,
+                        "sector_code": "90LDF",
+                        "x": -61,
+                        "y": -66,
+                        "z": 10
+                    },
+                    "right": {
+                        "left": null,
+                        "node": {
+                            "distance_from_earth": 42.81354925721529,
+                            "sector_code": "42LUB",
+                            "x": -40,
+                            "y": 13,
+                            "z": -8
+                        },
+                        "right": null
+                    }
+                }
+            },
+            "node": {
+                "distance_from_earth": 115.00434774390054,
+                "sector_code": "115LDF",
+                "x": -39,
+                "y": -76,
+                "z": 77
+            },
+            "right": null
+        },
+        "node": {
+            "distance_from_earth": 57.28001396647874,
+            "sector_code": "57LDF",
+            "x": -31,
+            "y": -4,
+            "z": 48
+        },
+        "right": {
+            "left": {
+                "left": null,
+                "node": {
+                    "distance_from_earth": 92.6066952223218,
+                    "sector_code": "92LDF",
+                    "x": -16,
+                    "y": -72,
+                    "z": 56
+                },
+                "right": null
+            },
+            "node": {
+                "distance_from_earth": 110.74746046749786,
+                "sector_code": "110LUF",
+                "x": -14,
+                "y": 90,
+                "z": 63
+            },
+            "right": null
+        }
+    },
+    "node": {
+        "distance_from_earth": 0.0,
+        "sector_code": "0SSS",
+        "x": 0,
+        "y": 0,
+        "z": 0
+    },
+    "right": {
+        "left": {
+            "left": null,
+            "node": {
+                "distance_from_earth": 25.729360660537214,
+                "sector_code": "25RDB",
+                "x": 1,
+                "y": -6,
+                "z": -25
+            },
+            "right": {
+                "left": null,
+                "node": {
+                    "distance_from_earth": 97.87747442593725,
+                    "sector_code": "97RUB",
+                    "x": 6,
+                    "y": 90,
+                    "z": -38
+                },
+                "right": null
+            }
+        },
+        "node": {
+            "distance_from_earth": 18.788294228055936,
+            "sector_code": "18RUF",
+            "x": 9,
+            "y": 4,
+            "z": 16
+        },
+        "right": {
+            "left": null,
+            "node": {
+                "distance_from_earth": 117.62227680163312,
+                "sector_code": "117RDF",
+                "x": 15,
+                "y": -73,
+                "z": 91
+            },
+            "right": {
+                "left": {
+                    "left": null,
+                    "node": {
+                        "distance_from_earth": 95.29428104561154,
+                        "sector_code": "95RDF",
+                        "x": 22,
+                        "y": -26,
+                        "z": 89
+                    },
+                    "right": null
+                },
+                "node": {
+                    "distance_from_earth": 81.14801291467339,
+                    "sector_code": "81RUB",
+                    "x": 77,
+                    "y": 20,
+                    "z": -16
+                },
+                "right": null
+            }
+        }
+    }
+}

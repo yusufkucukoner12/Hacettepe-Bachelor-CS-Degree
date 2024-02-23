@@ -1,0 +1,136 @@
+Space sectors inorder traversal:
+90LUB
+83LUF
+55LUF
+0SSS
+30SUB
+95RUB
+102RUF
+89RDF
+82RUF
+85RUB
+131RUB
+116RDB
+151RUB
+
+Space sectors preorder traversal:
+0SSS
+55LUF
+90LUB
+83LUF
+116RDB
+85RUB
+82RUF
+89RDF
+95RUB
+30SUB
+102RUF
+131RUB
+151RUB
+
+Space sectors postorder traversal:
+83LUF
+90LUB
+55LUF
+30SUB
+102RUF
+95RUB
+89RDF
+82RUF
+131RUB
+85RUB
+151RUB
+116RDB
+0SSS
+
+The stellar path to Dr. Elara: 0SSS->116RDB->151RUB
+
+
+
+The stellar path to Dr. Elara: 0SSS->116RDB->85RUB->131RUB
+
+
+
+The stellar path to Dr. Elara: 0SSS->55LUF->90LUB
+
+
+
+The stellar path to Dr. Elara: 0SSS->116RDB->85RUB->82RUF->89RDF->95RUB
+
+
+
+The stellar path to Dr. Elara: 0SSS->55LUF->90LUB->83LUF
+
+
+
+The stellar path to Dr. Elara: 0SSS->116RDB->85RUB->82RUF
+
+
+Space sectors inorder traversal:
+BLACK sector: 90LUB
+BLACK sector: 83LUF
+BLACK sector: 55LUF
+RED sector: 0SSS
+BLACK sector: 30SUB
+RED sector: 95RUB
+BLACK sector: 102RUF
+BLACK sector: 89RDF
+BLACK sector: 82RUF
+BLACK sector: 85RUB
+BLACK sector: 131RUB
+BLACK sector: 116RDB
+BLACK sector: 151RUB
+
+Space sectors preorder traversal:
+BLACK sector: 85RUB
+RED sector: 0SSS
+BLACK sector: 83LUF
+BLACK sector: 90LUB
+BLACK sector: 55LUF
+BLACK sector: 89RDF
+RED sector: 95RUB
+BLACK sector: 30SUB
+BLACK sector: 102RUF
+BLACK sector: 82RUF
+BLACK sector: 116RDB
+BLACK sector: 131RUB
+BLACK sector: 151RUB
+
+Space sectors postorder traversal:
+BLACK sector: 90LUB
+BLACK sector: 55LUF
+BLACK sector: 83LUF
+BLACK sector: 30SUB
+BLACK sector: 102RUF
+RED sector: 95RUB
+BLACK sector: 82RUF
+BLACK sector: 89RDF
+RED sector: 0SSS
+BLACK sector: 131RUB
+BLACK sector: 151RUB
+BLACK sector: 116RDB
+BLACK sector: 85RUB
+
+The stellar path to Dr. Elara: 0SSS->85RUB->116RDB->151RUB
+
+
+
+The stellar path to Dr. Elara: 0SSS->85RUB->116RDB->131RUB
+
+
+
+The stellar path to Dr. Elara: 0SSS->83LUF->90LUB
+
+
+
+The stellar path to Dr. Elara: 0SSS->89RDF->95RUB
+
+
+
+The stellar path to Dr. Elara: 0SSS->83LUF
+
+
+
+The stellar path to Dr. Elara: 0SSS->89RDF->82RUF
+
+

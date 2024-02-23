@@ -1,0 +1,31 @@
+{
+    "left": null,
+    "node": {
+        "distance_from_earth": 0.0,
+        "sector_code": "0SSS",
+        "x": 0,
+        "y": 0,
+        "z": 0
+    },
+    "right": {
+        "left": {
+            "left": null,
+            "node": {
+                "distance_from_earth": 109.0,
+                "sector_code": "109RDF",
+                "x": 36,
+                "y": -37,
+                "z": 96
+            },
+            "right": null
+        },
+        "node": {
+            "distance_from_earth": 132.60844618650805,
+            "sector_code": "132RUF",
+            "x": 94,
+            "y": 45,
+            "z": 82
+        },
+        "right": null
+    }
+}

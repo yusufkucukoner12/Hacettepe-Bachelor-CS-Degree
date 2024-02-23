@@ -1,0 +1,270 @@
+Space sectors inorder traversal:
+116LUB
+120LUB
+116LUB
+102LUF
+130LUF
+106LUF
+135LDF
+45LUB
+40LUB
+105LUB
+58LDB
+98LDF
+97LDF
+83LDF
+82LDF
+63LDB
+0SSS
+89RDB
+83RUF
+97RUF
+95RDF
+70RDF
+94RDF
+62RDB
+136RUB
+109RDF
+125RDB
+117RUF
+140RUB
+137RUB
+
+Space sectors preorder traversal:
+0SSS
+116LUB
+58LDB
+130LUF
+102LUF
+120LUB
+116LUB
+45LUB
+106LUF
+135LDF
+40LUB
+105LUB
+98LDF
+63LDB
+83LDF
+97LDF
+82LDF
+89RDB
+83RUF
+70RDF
+95RDF
+97RUF
+136RUB
+62RDB
+94RDF
+137RUB
+125RDB
+109RDF
+117RUF
+140RUB
+
+Space sectors postorder traversal:
+116LUB
+120LUB
+102LUF
+135LDF
+106LUF
+105LUB
+40LUB
+45LUB
+130LUF
+97LDF
+82LDF
+83LDF
+63LDB
+98LDF
+58LDB
+116LUB
+97RUF
+95RDF
+94RDF
+62RDB
+109RDF
+140RUB
+117RUF
+125RDB
+137RUB
+136RUB
+70RDF
+83RUF
+89RDB
+0SSS
+
+The stellar path to Dr. Elara: 0SSS->89RDB->83RUF->70RDF->95RDF
+
+
+
+The stellar path to Dr. Elara: 0SSS->116LUB->58LDB->98LDF->63LDB
+
+
+
+The stellar path to Dr. Elara: 0SSS
+
+
+
+The stellar path to Dr. Elara: 0SSS->116LUB->58LDB->130LUF->45LUB->106LUF
+
+
+
+The stellar path to Dr. Elara: 0SSS->89RDB
+
+
+
+The stellar path to Dr. Elara: 0SSS->116LUB->58LDB->98LDF->63LDB->83LDF
+
+
+
+The stellar path to Dr. Elara: 0SSS->116LUB->58LDB
+
+
+
+The stellar path to Dr. Elara: 0SSS->89RDB->83RUF->70RDF->136RUB->137RUB->125RDB->117RUF
+
+
+
+The stellar path to Dr. Elara: 0SSS->89RDB->83RUF->70RDF->136RUB->137RUB->125RDB
+
+
+
+The stellar path to Dr. Elara: 0SSS->116LUB->58LDB->130LUF->45LUB
+
+
+Space sectors inorder traversal:
+BLACK sector: 116LUB
+BLACK sector: 120LUB
+RED sector: 116LUB
+BLACK sector: 102LUF
+RED sector: 130LUF
+RED sector: 106LUF
+BLACK sector: 135LDF
+BLACK sector: 45LUB
+RED sector: 40LUB
+BLACK sector: 105LUB
+BLACK sector: 58LDB
+RED sector: 98LDF
+BLACK sector: 97LDF
+BLACK sector: 83LDF
+RED sector: 82LDF
+BLACK sector: 63LDB
+BLACK sector: 0SSS
+BLACK sector: 89RDB
+BLACK sector: 83RUF
+BLACK sector: 97RUF
+RED sector: 95RDF
+BLACK sector: 70RDF
+BLACK sector: 94RDF
+BLACK sector: 62RDB
+BLACK sector: 136RUB
+RED sector: 109RDF
+BLACK sector: 125RDB
+BLACK sector: 117RUF
+RED sector: 140RUB
+BLACK sector: 137RUB
+
+Space sectors preorder traversal:
+BLACK sector: 0SSS
+BLACK sector: 58LDB
+RED sector: 130LUF
+BLACK sector: 120LUB
+BLACK sector: 116LUB
+BLACK sector: 102LUF
+RED sector: 116LUB
+BLACK sector: 45LUB
+BLACK sector: 135LDF
+RED sector: 106LUF
+BLACK sector: 105LUB
+RED sector: 40LUB
+BLACK sector: 83LDF
+BLACK sector: 97LDF
+RED sector: 98LDF
+BLACK sector: 63LDB
+RED sector: 82LDF
+BLACK sector: 136RUB
+RED sector: 95RDF
+BLACK sector: 83RUF
+BLACK sector: 89RDB
+BLACK sector: 97RUF
+BLACK sector: 94RDF
+BLACK sector: 70RDF
+BLACK sector: 62RDB
+BLACK sector: 117RUF
+BLACK sector: 125RDB
+RED sector: 109RDF
+BLACK sector: 137RUB
+RED sector: 140RUB
+
+Space sectors postorder traversal:
+BLACK sector: 116LUB
+RED sector: 116LUB
+BLACK sector: 102LUF
+BLACK sector: 120LUB
+RED sector: 106LUF
+BLACK sector: 135LDF
+RED sector: 40LUB
+BLACK sector: 105LUB
+BLACK sector: 45LUB
+RED sector: 130LUF
+RED sector: 98LDF
+BLACK sector: 97LDF
+RED sector: 82LDF
+BLACK sector: 63LDB
+BLACK sector: 83LDF
+BLACK sector: 58LDB
+BLACK sector: 89RDB
+BLACK sector: 97RUF
+BLACK sector: 83RUF
+BLACK sector: 70RDF
+BLACK sector: 62RDB
+BLACK sector: 94RDF
+RED sector: 95RDF
+RED sector: 109RDF
+BLACK sector: 125RDB
+RED sector: 140RUB
+BLACK sector: 137RUB
+BLACK sector: 117RUF
+BLACK sector: 136RUB
+BLACK sector: 0SSS
+
+The stellar path to Dr. Elara: 0SSS->136RUB->95RDF
+
+
+
+The stellar path to Dr. Elara: 0SSS->58LDB->83LDF->63LDB
+
+
+
+The stellar path to Dr. Elara: 0SSS
+
+
+
+The stellar path to Dr. Elara: 0SSS->58LDB->130LUF->45LUB->135LDF->106LUF
+
+
+
+The stellar path to Dr. Elara: 0SSS->136RUB->95RDF->83RUF->89RDB
+
+
+
+The stellar path to Dr. Elara: 0SSS->58LDB->83LDF
+
+
+
+The stellar path to Dr. Elara: 0SSS->58LDB
+
+
+
+The stellar path to Dr. Elara: 0SSS->136RUB->117RUF
+
+
+
+The stellar path to Dr. Elara: 0SSS->136RUB->117RUF->125RDB
+
+
+
+The stellar path to Dr. Elara: 0SSS->58LDB->130LUF->45LUB
+
+
