@@ -1,0 +1,144 @@
+Insertion Sort with Random
+Size: 500, Method: Insertion Sort, Average Time: 0.24179ms
+Size: 1000, Method: Insertion Sort, Average Time: 0.31067ms
+Size: 2000, Method: Insertion Sort, Average Time: 1.0731ms
+Size: 4000, Method: Insertion Sort, Average Time: 4.31984ms
+Size: 8000, Method: Insertion Sort, Average Time: 16.06797ms
+Size: 16000, Method: Insertion Sort, Average Time: 73.69536ms
+Size: 32000, Method: Insertion Sort, Average Time: 267.37768ms
+Size: 64000, Method: Insertion Sort, Average Time: 2110.17758ms
+Size: 128000, Method: Insertion Sort, Average Time: 5025.15029ms
+Insertion Sort with Sorted
+Size: 500, Method: Insertion Sort, Average Time: 0.00122ms
+Size: 1000, Method: Insertion Sort, Average Time: 0.00142ms
+Size: 2000, Method: Insertion Sort, Average Time: 0.00301ms
+Size: 4000, Method: Insertion Sort, Average Time: 0.00486ms
+Size: 8000, Method: Insertion Sort, Average Time: 0.00953ms
+Size: 16000, Method: Insertion Sort, Average Time: 0.01878ms
+Size: 32000, Method: Insertion Sort, Average Time: 0.03829ms
+Size: 64000, Method: Insertion Sort, Average Time: 0.08717ms
+Size: 128000, Method: Insertion Sort, Average Time: 0.17536ms
+Insertion Sort with Reversely Sorted
+Size: 500, Method: Insertion Sort, Average Time: 0.22626ms
+Size: 1000, Method: Insertion Sort, Average Time: 0.90093ms
+Size: 2000, Method: Insertion Sort, Average Time: 2.53451ms
+Size: 4000, Method: Insertion Sort, Average Time: 9.69367ms
+Size: 8000, Method: Insertion Sort, Average Time: 42.28922ms
+Size: 16000, Method: Insertion Sort, Average Time: 137.86335ms
+Size: 32000, Method: Insertion Sort, Average Time: 554.3723ms
+Size: 64000, Method: Insertion Sort, Average Time: 2159.28463ms
+Size: 128000, Method: Insertion Sort, Average Time: 8994.79727ms
+Merge Sort with Random
+Size: 500, Method: Merge Sort, Average Time: 0.09827ms
+Size: 1000, Method: Merge Sort, Average Time: 0.17952ms
+Size: 2000, Method: Merge Sort, Average Time: 0.23123ms
+Size: 4000, Method: Merge Sort, Average Time: 0.49965ms
+Size: 8000, Method: Merge Sort, Average Time: 0.92438ms
+Size: 16000, Method: Merge Sort, Average Time: 2.04263ms
+Size: 32000, Method: Merge Sort, Average Time: 4.01705ms
+Size: 64000, Method: Merge Sort, Average Time: 8.49871ms
+Size: 128000, Method: Merge Sort, Average Time: 19.71387ms
+Merge Sort with Sorted
+Size: 500, Method: Merge Sort, Average Time: 0.02834ms
+Size: 1000, Method: Merge Sort, Average Time: 0.06422ms
+Size: 2000, Method: Merge Sort, Average Time: 0.10858ms
+Size: 4000, Method: Merge Sort, Average Time: 0.26633ms
+Size: 8000, Method: Merge Sort, Average Time: 0.47635ms
+Size: 16000, Method: Merge Sort, Average Time: 1.07298ms
+Size: 32000, Method: Merge Sort, Average Time: 1.59342ms
+Size: 64000, Method: Merge Sort, Average Time: 3.2402ms
+Size: 128000, Method: Merge Sort, Average Time: 6.7283ms
+Merge Sort with Reversely Sorted
+Size: 500, Method: Merge Sort, Average Time: 0.02138ms
+Size: 1000, Method: Merge Sort, Average Time: 0.04358ms
+Size: 2000, Method: Merge Sort, Average Time: 0.123ms
+Size: 4000, Method: Merge Sort, Average Time: 0.30957ms
+Size: 8000, Method: Merge Sort, Average Time: 0.38224ms
+Size: 16000, Method: Merge Sort, Average Time: 1.25024ms
+Size: 32000, Method: Merge Sort, Average Time: 1.3879ms
+Size: 64000, Method: Merge Sort, Average Time: 3.11069ms
+Size: 128000, Method: Merge Sort, Average Time: 6.19179ms
+Counting Sort with Random
+Size: 500, Method: Counting Sort, Average Time: 330.33076ms
+Size: 1000, Method: Counting Sort, Average Time: 332.81336ms
+Size: 2000, Method: Counting Sort, Average Time: 264.96342ms
+Size: 4000, Method: Counting Sort, Average Time: 146.94585ms
+Size: 8000, Method: Counting Sort, Average Time: 136.58788ms
+Size: 16000, Method: Counting Sort, Average Time: 134.99422ms
+Size: 32000, Method: Counting Sort, Average Time: 138.04643ms
+Size: 64000, Method: Counting Sort, Average Time: 140.30585ms
+Size: 128000, Method: Counting Sort, Average Time: 137.52889ms
+Counting Sort with Sorted
+Size: 500, Method: Counting Sort, Average Time: 143.15988ms
+Size: 1000, Method: Counting Sort, Average Time: 142.52624ms
+Size: 2000, Method: Counting Sort, Average Time: 130.66664ms
+Size: 4000, Method: Counting Sort, Average Time: 141.70005ms
+Size: 8000, Method: Counting Sort, Average Time: 144.45136ms
+Size: 16000, Method: Counting Sort, Average Time: 149.57275ms
+Size: 32000, Method: Counting Sort, Average Time: 147.93714ms
+Size: 64000, Method: Counting Sort, Average Time: 129.87907ms
+Size: 128000, Method: Counting Sort, Average Time: 137.43467ms
+Counting Sort with Reversely Sorted
+Size: 500, Method: Counting Sort, Average Time: 121.41951ms
+Size: 1000, Method: Counting Sort, Average Time: 135.42483ms
+Size: 2000, Method: Counting Sort, Average Time: 122.45998ms
+Size: 4000, Method: Counting Sort, Average Time: 122.76791ms
+Size: 8000, Method: Counting Sort, Average Time: 122.61574ms
+Size: 16000, Method: Counting Sort, Average Time: 121.81706ms
+Size: 32000, Method: Counting Sort, Average Time: 122.78271ms
+Size: 64000, Method: Counting Sort, Average Time: 122.85092ms
+Size: 128000, Method: Counting Sort, Average Time: 125.27414ms
+Linear Search with Random
+Size: 500, Method: Linear Search, Average Time: 1050.8ns
+Linear Search with Random
+Size: 1000, Method: Linear Search, Average Time: 750.8ns
+Linear Search with Random
+Size: 2000, Method: Linear Search, Average Time: 1038.6ns
+Linear Search with Random
+Size: 4000, Method: Linear Search, Average Time: 1314.9ns
+Linear Search with Random
+Size: 8000, Method: Linear Search, Average Time: 2194.8ns
+Linear Search with Random
+Size: 16000, Method: Linear Search, Average Time: 5841.4ns
+Linear Search with Random
+Size: 32000, Method: Linear Search, Average Time: 10443.2ns
+Linear Search with Random
+Size: 64000, Method: Linear Search, Average Time: 23323.4ns
+Linear Search with Random
+Size: 128000, Method: Linear Search, Average Time: 40986.9ns
+Linear Search with Sorted
+Size: 500, Method: Linear Search, Average Time: 1893.5ns
+Linear Search with Sorted
+Size: 1000, Method: Linear Search, Average Time: 2035.9ns
+Linear Search with Sorted
+Size: 2000, Method: Linear Search, Average Time: 2708.6ns
+Linear Search with Sorted
+Size: 4000, Method: Linear Search, Average Time: 5690.8ns
+Linear Search with Sorted
+Size: 8000, Method: Linear Search, Average Time: 7419.8ns
+Linear Search with Sorted
+Size: 16000, Method: Linear Search, Average Time: 8468.7ns
+Linear Search with Sorted
+Size: 32000, Method: Linear Search, Average Time: 14263.4ns
+Linear Search with Sorted
+Size: 64000, Method: Linear Search, Average Time: 23933.1ns
+Linear Search with Sorted
+Size: 128000, Method: Linear Search, Average Time: 34765.6ns
+Binary Search with Sorted
+Size: 500, Method: Binary Search, Average Time: 2026.4ns
+Binary Search with Sorted
+Size: 1000, Method: Binary Search, Average Time: 1408.8ns
+Binary Search with Sorted
+Size: 2000, Method: Binary Search, Average Time: 1700.4ns
+Binary Search with Sorted
+Size: 4000, Method: Binary Search, Average Time: 1796.9ns
+Binary Search with Sorted
+Size: 8000, Method: Binary Search, Average Time: 2565.5ns
+Binary Search with Sorted
+Size: 16000, Method: Binary Search, Average Time: 3682.7ns
+Binary Search with Sorted
+Size: 32000, Method: Binary Search, Average Time: 4100.3ns
+Binary Search with Sorted
+Size: 64000, Method: Binary Search, Average Time: 4414.7ns
+Binary Search with Sorted
+Size: 128000, Method: Binary Search, Average Time: 3961.2ns

@@ -1,0 +1,28 @@
+import java.util.function.BiFunction;
+
+class SearchingManager {
+    public static double[] runSearchTests(Searchs searchs, BiFunction<int[], Integer, Integer> searchFunction, String dataDescription, String searchMethodName, int numRuns) throws IOException {
+        int[] sizes = {500, 1000, 2000, 4000, 8000, 16000, 32000, 64000, 128000};
+        double[] averageDurations = new double[sizes.length];
+
+        for (int i = 0; i < sizes.length; i++) {
+            int size = sizes[i];
+            long totalDuration = 0;
+
+            for (int run = 0; run < numRuns; run++) {
+                int[] data = Pickthedata.returnTheData(size);
+
+                long startTime = System.nanoTime();
+                searchFunction.apply(data, size - 1); // Perform the search for the last element
+                long endTime = System.nanoTime();
+
+                totalDuration += endTime - startTime;
+            }
+
+            averageDurations[i] = totalDuration / (double) numRuns;
+            System.out.println("Size: " + size + ", Method: " + searchMethodName + ", Average Time: " + averageDurations[i] + "ns");
+        }
+
+        return averageDurations;
+    }
+}
